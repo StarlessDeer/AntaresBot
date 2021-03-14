@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antares Bot", "Antares Bot\Antares Bot.csproj", "{88B5930B-79B9-41C7-BDDE-8E2184232C60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AntaresBot", "AntaresBot\AntaresBot.csproj", "{D518854F-279C-4693-AA0A-7EA806D06975}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{88B5930B-79B9-41C7-BDDE-8E2184232C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{88B5930B-79B9-41C7-BDDE-8E2184232C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{88B5930B-79B9-41C7-BDDE-8E2184232C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{88B5930B-79B9-41C7-BDDE-8E2184232C60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D518854F-279C-4693-AA0A-7EA806D06975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D518854F-279C-4693-AA0A-7EA806D06975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D518854F-279C-4693-AA0A-7EA806D06975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D518854F-279C-4693-AA0A-7EA806D06975}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AF536D1F-CC99-4835-8877-C73620FF28D5}
+		SolutionGuid = {D6252B05-B8FD-49B1-9704-65813E7CA229}
 	EndGlobalSection
 EndGlobal
