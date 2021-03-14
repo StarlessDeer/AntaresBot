@@ -40,7 +40,8 @@ namespace Antares_Bot
             _client.Log += Client_Log;
             // Bot Authentification init
             RegisterCommandsAsync();
-            var token = File.ReadAllText("TOKEN.txt");
+            //var token = File.ReadAllText("TOKEN.txt");
+            var token = Environment.GetEnvironmentVariable("TOKEN");
             await _client.LoginAsync(TokenType.Bot, token);
             await _client.StartAsync();
             await _commands.AddModulesAsync(Assembly.GetEntryAssembly(), _services);
