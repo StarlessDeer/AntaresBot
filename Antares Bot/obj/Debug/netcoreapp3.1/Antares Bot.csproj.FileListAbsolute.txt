@@ -1,0 +1,50 @@
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\Antares Bot\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\Antares Bot\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\Antares Bot\bin\Debug\netcoreapp3.1\Antares Bot.exe
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\Antares Bot\bin\Debug\netcoreapp3.1\Antares Bot.deps.json
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\Antares Bot\bin\Debug\netcoreapp3.1\Antares Bot.runtimeconfig.json
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\Antares Bot\bin\Debug\netcoreapp3.1\Antares Bot.runtimeconfig.dev.json
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\Antares Bot\bin\Debug\netcoreapp3.1\Antares Bot.dll
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\Antares Bot\bin\Debug\netcoreapp3.1\Antares Bot.pdb
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\Antares Bot\obj\Debug\netcoreapp3.1\Antares Bot.csprojAssemblyReference.cache
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\Antares Bot\obj\Debug\netcoreapp3.1\Antares Bot.AssemblyInfoInputs.cache
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\Antares Bot\obj\Debug\netcoreapp3.1\Antares Bot.AssemblyInfo.cs
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\Antares Bot\obj\Debug\netcoreapp3.1\Antares Bot.csproj.CoreCompileInputs.cache
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\Antares Bot\obj\Debug\netcoreapp3.1\Antares Bot.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\Antares Bot\obj\Debug\netcoreapp3.1\staticwebassets\Antares Bot.StaticWebAssets.Manifest.cache
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\Antares Bot\obj\Debug\netcoreapp3.1\staticwebassets\Antares Bot.StaticWebAssets.xml
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\Antares Bot\obj\Debug\netcoreapp3.1\scopedcss\bundle\Antares Bot.styles.css
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\Antares Bot\obj\Debug\netcoreapp3.1\Antares Bot.RazorTargetAssemblyInfo.cache
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\Antares Bot\obj\Debug\netcoreapp3.1\Antares Bot.dll
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\Antares Bot\obj\Debug\netcoreapp3.1\Antares Bot.pdb
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\Antares Bot\obj\Debug\netcoreapp3.1\Antares Bot.genruntimeconfig.cache
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\bin\Debug\netcoreapp3.1\Antares Bot.exe
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\bin\Debug\netcoreapp3.1\Antares Bot.deps.json
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\bin\Debug\netcoreapp3.1\Antares Bot.runtimeconfig.json
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\bin\Debug\netcoreapp3.1\Antares Bot.runtimeconfig.dev.json
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\bin\Debug\netcoreapp3.1\Antares Bot.dll
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\bin\Debug\netcoreapp3.1\Antares Bot.pdb
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\obj\Debug\netcoreapp3.1\Antares Bot.csprojAssemblyReference.cache
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\obj\Debug\netcoreapp3.1\Antares Bot.AssemblyInfoInputs.cache
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\obj\Debug\netcoreapp3.1\Antares Bot.AssemblyInfo.cs
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\obj\Debug\netcoreapp3.1\Antares Bot.csproj.CoreCompileInputs.cache
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\obj\Debug\netcoreapp3.1\Antares Bot.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\obj\Debug\netcoreapp3.1\staticwebassets\Antares Bot.StaticWebAssets.Manifest.cache
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\obj\Debug\netcoreapp3.1\staticwebassets\Antares Bot.StaticWebAssets.xml
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\obj\Debug\netcoreapp3.1\scopedcss\bundle\Antares Bot.styles.css
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\obj\Debug\netcoreapp3.1\Antares Bot.RazorTargetAssemblyInfo.cache
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\obj\Debug\netcoreapp3.1\Antares Bot.csproj.CopyComplete
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\obj\Debug\netcoreapp3.1\Antares Bot.dll
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\obj\Debug\netcoreapp3.1\Antares Bot.pdb
+D:\Users\Lucas\Documents\code\AntaresBot\Antares Bot\obj\Debug\netcoreapp3.1\Antares Bot.genruntimeconfig.cache
